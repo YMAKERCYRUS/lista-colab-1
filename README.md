@@ -80,3 +80,4 @@ O notebook `pandas_intro_ex1_respondida.ipynb` percorre as seguintes etapas:
  
 - Python 3
 - Pandas
+- jupyter notbook
